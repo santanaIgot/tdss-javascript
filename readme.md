@@ -1,0 +1,3 @@
+<!-- Responsividade -->
+
+- Pixels = Representatividade (px)
